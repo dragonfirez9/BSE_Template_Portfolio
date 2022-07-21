@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Anish M | Redmond High School | Computer Science | Incoming Sophomore
 
-<iframe mozallowfullscreen="true" allow="autoplay; fullscreen" src="https://dragonfirez9.github.io/BSE_Template_Portfolio/game/index.html" style="border:0px #000000 none;" name="My Game" scrolling="no" msallowfullscreen="true" allowfullscreen="true" webkitallowfullscreen="true" allowtransparency="true" frameborder="0" marginheight="px" marginwidth="320px" height="540px" width="960px"></iframe> 
+<iframe mozallowfullscreen="true" allow="autoplay; fullscreen" src="https://dragonfirez9.github.io/BSE_Template_Portfolio/game%20try%202/index.html" style="border:0px #000000 none;" name="My Game" scrolling="no" msallowfullscreen="true" allowfullscreen="true" webkitallowfullscreen="true" allowtransparency="true" frameborder="0" marginheight="px" marginwidth="320px" height="540px" width="960px"></iframe> 
 
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)

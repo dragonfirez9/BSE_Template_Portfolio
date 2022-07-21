@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Anish Maheshwar | Redmond High School | Computer Science | Incoming Sophomore
+| Anish M | Redmond High School | Computer Science | Incoming Sophomore
 
 <iframe mozallowfullscreen="true" allow="autoplay; fullscreen" src="https://github.com/dragonfirez9/BSE_Template_Portfolio/blob/gh-pages/game/index.html" style="border:0px #000000 none;" name="My Game" scrolling="no" msallowfullscreen="true" allowfullscreen="true" webkitallowfullscreen="true" allowtransparency="true" frameborder="0" marginheight="px" marginwidth="320px" height="540px" width="960px"></iframe>
 

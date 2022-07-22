@@ -7,7 +7,7 @@ In this project, I created an infinite scroller platformer game with unity.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Anish M | Redmond High School | Computer Science | Incoming Sophomore
+| Anish M | Redmond High School | Computer Science | Rising Sophomore
 
 <iframe mozallowfullscreen="true" allow="autoplay; fullscreen" src="https://dragonfirez9.github.io/BSE_Template_Portfolio/game%20try%202/index.html" style="border:0px #000000 none;" name="My Game" scrolling="no" msallowfullscreen="true" allowfullscreen="true" webkitallowfullscreen="true" allowtransparency="true" frameborder="0" marginheight="px" marginwidth="320px" height="540px" width="960px"></iframe> 
   

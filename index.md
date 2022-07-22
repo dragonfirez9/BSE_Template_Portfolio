@@ -9,7 +9,7 @@ In this project, I created an infinite scroller platformer game with unity.
 |:--:|:--:|:--:|:--:|
 | Anish M | Redmond High School | Computer Science | Rising Sophomore
 
-<iframe mozallowfullscreen="true" allow="autoplay; fullscreen" src="https://dragonfirez9.github.io/BSE_Template_Portfolio/game%20try%202/index.html" style="border:0px #000000 none;" name="My Game" scrolling="no" msallowfullscreen="true" allowfullscreen="true" webkitallowfullscreen="true" allowtransparency="true" frameborder="0" marginheight="px" marginwidth="320px" height="540px" width="960px"></iframe> 
+<iframe mozallowfullscreen="true" allow="autoplay; fullscreen" src="https://dragonfirez9.github.io/BSE_Template_Portfolio/game%20try%202/index.html" style="border:0px #000000 none;" name="My Game" scrolling="no" msallowfullscreen="true" allowfullscreen="true" webkitallowfullscreen="true" allowtransparency="true" frameborder="0" marginheight="px" marginwidth="320px" height="540px" width="800px"></iframe> 
   
 # Demo Night Video
 My Demo Night Video showcased my project in full. I explained what I gained from the course as well as demonstrating the project.

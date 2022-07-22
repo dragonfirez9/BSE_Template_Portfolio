@@ -1,6 +1,8 @@
 ﻿# Creating a Video game with Unity
 In this project, I created an infinite scroller platformer game with unity.
 
+<a href="https://ibb.co/MSfssZX"><img src="https://i.ibb.co/Gp900nh/83-D6-AC3-B-2534-48-D7-AF07-C619-ADE29901.jpg" alt="83-D6-AC3-B-2534-48-D7-AF07-C619-ADE29901" border="0" /></a>
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Anish M | Redmond High School | Computer Science | Incoming Sophomore
@@ -19,6 +21,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 My second milestone was fully completing the game. I set up spawners for powerups as well as bombs and bonus platforms. After you died, the game transported you to a seperate scene where your score as well as options to restart were added. Finally, difficulty modes were set up for an extra challenge if the user wanted. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w9REOa6XFvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # First Milestone
   
 

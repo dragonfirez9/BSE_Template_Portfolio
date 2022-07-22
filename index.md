@@ -2,7 +2,7 @@
 In this project, I created an infinite scroller platformer game with unity.
 
 <p align="center"> 
-<a href="https://ibb.co/MSfssZX"><img src="https://i.ibb.co/Gp900nh/83-D6-AC3-B-2534-48-D7-AF07-C619-ADE29901.jpg" alt="83-D6-AC3-B-2534-48-D7-AF07-C619-ADE29901" border="0" height="150" width="200" /></a>
+<a href="https://ibb.co/MSfssZX"><img src="https://i.ibb.co/Gp900nh/83-D6-AC3-B-2534-48-D7-AF07-C619-ADE29901.jpg" alt="83-D6-AC3-B-2534-48-D7-AF07-C619-ADE29901" border="0" height="300" width="200" /></a>
 </p>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
